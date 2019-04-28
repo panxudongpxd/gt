@@ -1,2 +1,1 @@
-git is a version control system !
-ÐÂ·ÖÖ§
+git is a version control system !aaaa
